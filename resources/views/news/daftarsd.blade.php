@@ -93,7 +93,7 @@
                 </div>
                 <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center; margin-top: 20px;">
                     <p>
-                        Assalamualaikum.....😊<br>
+                        Assalamualaikum😊<br>
                         Hai KR Lovers!!!<br>
                         Kabar gembira....<br>
                         GRAND LAUNCHING SDI TAHFIDZPRENEUR KHULAFAUR RASYIDIN<br>
